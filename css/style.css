@@ -70,7 +70,8 @@ a:hover {
   color: rgb(116, 0, 0);
   transform: scale(1.1);
 }
-
+.main-head{
+}
 .main-head_writebox {
   display: flex;
   justify-content: space-between;
